@@ -35,7 +35,7 @@
 ## Data Structure
 
   - [Array](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array.md)
-  - [LinkedList](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Linked%20List.md)
+  - [LinkedList](https://github.com/YouHojoon/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Linked%20List.md)
   - [Array & ArrayList & LinkedList](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array%20vs%20ArrayList%20vs%20LinkedList.md)
   - [스택(Stack) & 큐(Queue)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Stack%20%26%20Queue.md)
   - [힙(Heap)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Heap.md)
