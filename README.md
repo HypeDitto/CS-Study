@@ -1,7 +1,9 @@
 # 🛠 CS 기술 면접 대비
 > 참조: [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
 
-> 매주 목요일 오후 3시 디스코드에서 온라인 공유
+> 1회차: 개념 공부해서 매주 목요일 오후 3시 디스코드에서 온라인 공유
+>
+> 2회차: [레포](https://github.com/VSFe/Tech-Interview) 참고해서 질문 답변 정리
 
 ## Computer Architecture
 
